@@ -1,7 +1,7 @@
 # Hi there, I'm RayG! 🦭🌊
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mms0eXRxZzR4eXRxZzR4eXRxZzR4eXRxZzR4eXRxJnBlPXM/m9pQ7MNCAd3PnU5GOW/giphy.gif" width="200" alt="Happy Sea Lion">
+  <img src="cool_avatar.png" width="200" alt="Happy Sea Lion">
 </p>
 
 ### 🎭 About Me
@@ -15,11 +15,11 @@ I am a cool **Cali Sea Lion** named RayG. While most sea lions are busy sunbathi
 ---
 
 ### 🛠️ OceanAI Tech Stack
-`Python` | `TensorFlow` | `PyTorch` | `OpenCV (for fish detection)` | `Rust`
+`Python` | `Transformers` | `PyTorch` | `OpenCV (for fish detection)` | `Rust`
 
-### 📊 RayG's Ocean Stats
+<!-- ### 📊 RayG's Ocean Stats
 ![RayG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raygthesealion&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygthesealion&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygthesealion&layout=compact&theme=tokyonight) -->
 
 ---
 
