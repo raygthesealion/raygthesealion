@@ -25,7 +25,7 @@ I am a cool **Cali Sea Lion** named RayG. While most sea lions are busy sunbathi
 
 ### 🌊 Let's Connect!
 - 🐚 Find me barking at the moon or coding underwater.
-- 📫 How to reach me: `rayg.thesealion@gmail.com`
+- 📫 How to reach me: `$MY_NAME.thesealion@gmail.com`
 - 🐟 Current status: **Looking for premium sardines and GPU clusters.**
 
 <p align="right">(<i>P.S. No polar bears allowed in my repos!</i>) 🚫🐻</p>
